@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiaoyang&label=Profile%20views&color=0e75b6&style=flat" alt="xiaoyang" /> </p>
 
-- 📝 I regularly write articles on [gislogic.cn](gislogic.cn)
+- 📝 I regularly write articles on [gislogic.cn](http://gislogic.cn/)
 
 - 💬 Ask me about **Everything about GIS, as long as I know**
 
