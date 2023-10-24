@@ -16,3 +16,5 @@
 ### This README uses the following great tools：
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - [GitHub Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+- [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+- [Awesome GitHub profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
