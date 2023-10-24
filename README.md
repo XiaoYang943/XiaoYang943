@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiaoyang&label=Profile%20views&color=0e75b6&style=flat" alt="xiaoyang" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xiaoyang" alt="xiaoyang" /></a> </p>
-
 - 📝 I regularly write articles on [gislogic.cn](gislogic.cn)
 
 - 💬 Ask me about **Everything about GIS, as long as I know**
