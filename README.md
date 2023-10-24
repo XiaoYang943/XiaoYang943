@@ -1,7 +1,7 @@
 <h1 align="center">Hello,I'm XiaoYang</h1>
 <h3 align="center">A geographic information system developer from China</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xiaoyang&label=Profile%20views&color=0e75b6&style=flat" alt="xiaoyang" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=XiaoYang943&label=Profile%20views&color=0e75b6&style=flat" alt="XiaoYang943" /> </p>
 
 - 📝 I regularly write articles on [gislogic.cn](http://gislogic.cn/)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **1352253543@qq.com**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoYang&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoYang943&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
 
