@@ -17,7 +17,7 @@
 - 📫 How to reach me **1352253543@qq.com**
 
 <div>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=XiaoYang943&theme=calm&show_icons=true" />
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=XiaoYang943&theme=calm&show_icons=true&count_private=true" />
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoYang943&theme=calm&langs_count=6&layout=compact" />
 </div>
 
