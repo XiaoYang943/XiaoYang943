@@ -2,7 +2,7 @@
 
 
   <!-- 动态字体 -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=500&random=false&width=435&lines=Full+Stack+GIS+Developer;Three+Years+of+Development+Work+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=500&center=true&random=false&width=435&lines=Full+Stack+GIS+Developer;Three+Years+of+Development+Work+Experience)](https://git.io/typing-svg)
   
   <!-- 徽标 -->
   <div align="center">
