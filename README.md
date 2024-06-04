@@ -3,16 +3,18 @@
   
   <!-- 个人资料徽标 -->
   <div align="center">
-
-      <!-- 动态打字效果 -->
-    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-  
     <a href="http://blog.gislogic.cn/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <!-- 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=XiaoYang943&label=Views&color=FF0000&style=flat" alt="访问量统计" />
   </div>
-<p><b>Technology has the power to make the world a better place</b></p>
+  
 </div>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
+</p>
+
 ## Hi there 👋
 
 
